@@ -1,5 +1,7 @@
 # peter-evans/create-or-update-project-card
 
+A GitHub action to create or update a project card
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/peter-evans/create-or-update-project-card](https://github.com/peter-evans/create-or-update-project-card).
 
 ## Versions

@@ -1,5 +1,6 @@
 {
   "owner": "peter-evans",
   "name": "create-or-update-project-card",
-  "visibility": ""
+  "visibility": "internal",
+  "description": "A GitHub action to create or update a project card"
 }
