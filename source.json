@@ -1,4 +1,6 @@
 {
-  "upstream": "peter-evans/create-or-update-project-card",
-  "version": "v3.0.0"
+  "owner": "peter-evans",
+  "repo": "create-or-update-project-card",
+  "version": "",
+  "url": "https://github.com/peter-evans/create-or-update-project-card"
 }
