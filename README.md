@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v3.0.0 | [`v3.0.0`](https://github.com/chainguard-actions/peter-evans-create-or-update-project-card/tree/v3.0.0) | — |
+| v3.0.0 | [`v3.0.0`](https://github.com/chainguard-actions/peter-evans-create-or-update-project-card/tree/v3.0.0) | [`c8dd07b`](https://github.com/peter-evans/create-or-update-project-card/commit/c8dd07be1bd40c309aa3825fd6e83b33218b4abf) |
 
 ## Privacy
 
